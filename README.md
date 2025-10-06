@@ -9,7 +9,6 @@ Amaç: Python’un temel kavramlarını öğrenmek, tekrar etmek ve başkaları 
 
 | Dosya Adı            | Konu / İçerik Açıklaması |
 |-----------------------|-------------------------------------|
-| `01_Variables.ipynb`     | Değişken tanımlama, isimlendirme kuralları, Tam sayılar (integer) ile işlemler, Ondalık sayılar (float) ile işlemler |
 | `strings.ipynb`       | String veri tipi ve metin işlemleri |
 | `booleans.ipynb`      | True / False değerleri ve mantıksal işlemler |
 | `lists.ipynb`         | Listeler, indexleme ve liste metotları |
